@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Excel / Google Sheets
     - [Promo Cost Estimation](https://hannresortsphil-my.sharepoint.com/:x:/g/personal/harry_francisco_hannresorts_com/Ef3QsBZhK1dJin37oSeZwnQBrWdxYgNRRGfMwYEFPJJn0w?e=AkVVNu) 
   - Power BI
-    - Game Performance Monitoring
+    - [Game Performance Monitoring](https://github.com/harrybehn/powerbiportfolio)
   - SAS EG
     - [Report Automation from ETL to Email Sending](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - SQL
