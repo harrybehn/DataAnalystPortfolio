@@ -20,9 +20,9 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
 
 
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+- [Education](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/README.md#education)  
+- [Certificates](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/README.md#certificates)
+- [Contact](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
