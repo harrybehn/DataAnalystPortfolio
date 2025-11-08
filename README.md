@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Excel / Google Sheets
     - [Promo Cost Estimation](https://hannresortsphil-my.sharepoint.com/:x:/g/personal/harry_francisco_hannresorts_com/Ef3QsBZhK1dJin37oSeZwnQBrWdxYgNRRGfMwYEFPJJn0w?e=AkVVNu) 
   - Power BI
-    - [Game Performance Monitoring](https://github.com/harrybehn/powerbiportfolio)
+    - [Game Performance Monitoring](https://github.com/harrybehn/DataAnalystPortfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
   - SAS EG
     - [Report Automation from ETL to Email Sending](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - SQL
@@ -26,18 +26,18 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Analyzing the Factors Contributing to the Success of a Movie
-**Code:** [`Analyzing the Factors Contributing to the Success of a Movie.ipynb`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Analyzing%20the%20Factors%20Contributing%20to%20the%20Success%20of%20a%20Movie.ipynb)
+### Weekly, Monthly & Yearly Gaming Performance Monitoring
+**Code:** [Weekly, Monthly & Yearly Gaming Performance Monitoring](https://github.com/harrybehn/powerbiportfolio)
 
-**Goal:** To determine what factors contribute the most to a movie's success.
+**Goal:** To monitor weekly gaming performance by Nationality
 
-**Description:** The project focused on analyzing a dataset of movies released between 1980 and 2022. The dataset included movie titles, ratings, genres, release dates, budgets, gross earnings, and other relevant information. The project involved loading the data, cleaning and preprocessing it, performing exploratory data analysis (EDA), analyzing the correlation between budget and gross earnings, and implemented Pearson’s correlation statistical analysis.
+**Description:** This dashboard provides insights into gaming performance metrics by analyzing Unique Player count, Theoritical Win, Actual Win and Coin In Statistics across different nationalities ,gaming areas and game type in weekly , monthly and yearly basis.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** Data cleaning, data transformation, data visualization.
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+**Technology:** Power BI, DAX, Power Query & SQL
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+**Results:** Enabled weekly tracking of gaming performance by nationality, helping stakeholders identify trends in player behavior and revenue contribution. The dashboard improved decision-making for marketing and operations by highlighting high-performing segments and underutilized gaming areas.
 
 ### Tech Store Sales Analysis
 
@@ -55,62 +55,14 @@ In this section I will list data analytics projects briefly describing the techn
 
 
 
-### Nashville Housing Data Cleaning
-**Code:** [`Data Cleaning Project Queries: Nashville Housing.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Data%20Cleaning%20Project%20Queries:%20Nashville%20Housing.sql)
-
-**Description:** The dataset contains a list of houses that have been sold in Nashville between 2013 and 2019. This project includes the following steps: data loading, data cleaning and preprocessing.
-
-
-**Skills:** DML(Data Manipulation Language), DQL (Data Query Language), DDL (Data Definition Language).
-
-**Technology:** SQL Server
-
-
-### Covid 19 Data Exploration
-**Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
-
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
-
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
-
-**Technology:** SQL Server
-
-
-
-### Legendary Pokémon Analysis
-
-**Goal:** To predict Pokémon status based on their characteristics and rank their importance in determining whether a Pokémon is classified as legendary.
-
-**Code:** [`Legendary Pokémon Analysis (Study Project)`](https://github.com/tiannaparris/PortfolioProjects/blob/main/Legendary%20Pok%C3%A9mon%20Analysis.ipynb)
-
-**Description:** The dataset contains a list of  Pokémon.  The records include their characteristics such as attack, defense, type and size. The project includes the following steps: data loading, data cleaning EDA (exploratory data analysis), analyzing characteristics of different Pokémon.
-
-**Skills:** data cleaning, data analysis, data visualization.
-
-**Technology:** Tidyverse 
-
-
-
-
-
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
+NwSSU - BS in Electrical Engineering 
 Dec 2022 - Dec 2024
 
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
-
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
 - [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
-- [Python for Data Science](https://coursera.org/share/a16ecd3de61dd794199c452586cba90c) (Feb 2023) (Coursera - University of Colorado Boulder)
 
 ## Contacts
 - LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
