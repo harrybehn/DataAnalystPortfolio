@@ -13,14 +13,13 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Report Automation from ETL to Email Sending](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - Excel
     - [Weekly, Monthly & Yearly Game Performance Monitoring](https://hannresortsphil-my.sharepoint.com/:x:/g/personal/harry_francisco_hannresorts_com/EdXtVyXKpZtPiRrvLDeGl0UBGhAB8gsy6HBB9cu7jigHEQ?e=U9rqUj) 
+
 
 ## Education
 NwSSU - BS in Electrical Engineering 
 Aug 2014 - Mar 2019
-
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
