@@ -21,9 +21,6 @@ This is a repository to showcase skills, share projects and track my progress in
 NwSSU - BS in Electrical Engineering 
 Aug 2014 - Mar 2019
 
-## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
-- [Tableau](https://www.coursera.org/account/accomplishments/verify/62LME4DV8CUV) (Oct 2022) (Coursera - University of California, Davis)
 
 ## Contacts
 - LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
