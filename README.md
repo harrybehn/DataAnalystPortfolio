@@ -1,6 +1,6 @@
 # Harry Behn Francisco - Data Analyst Portfolio
 ## About
-Hi, I'm Harry! I have a bachelors degree in Electrical Engineering. I am a detail oriented Data Analyst with more than 4 years of extensive experience in Data Analysis. I am skilled in Data management and Analysis including Data Cleaning, Data Transformation and Data Visualization.
+Hi, I'm Harry! I have a Bachelors degree in Electrical Engineering. I am a detail oriented Data Analyst with more than 4 years of extensive experience in Data Analysis. I am skilled in Data management and Analysis including Data Cleaning, Data Transformation and Data Visualization.
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
