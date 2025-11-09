@@ -15,7 +15,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - Excel
-    - [Weekly, Monthly & Yearly Game Performance Monitoring](https://docs.google.com/spreadsheets/d/1OZRoW2burha0EH00-TPsM_BU1hv33vo8/edit?usp=drive_link&ouid=109530446855448336022&rtpof=true&sd=true) 
+    - [Weekly, Monthly & Yearly Game Performance Monitoring](https://hannresortsphil-my.sharepoint.com/:x:/g/personal/harry_francisco_hannresorts_com/EdXtVyXKpZtPiRrvLDeGl0UBGhAB8gsy6HBB9cu7jigHEQ?e=U9rqUj) 
 
 ## Education
 NwSSU - BS in Electrical Engineering 
