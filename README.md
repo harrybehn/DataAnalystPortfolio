@@ -8,7 +8,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Projects
   - Power BI
-    - [Weekly Game Performance Monitoring](https://github.com/harrybehn/DataAnalystPortfolio?tab=readme-ov-file#weekly-monthly--yearly-gaming-performance-monitoring)
+    - [Weekly Game Performance Monitoring](https://github.com/harrybehn/powerbiportfolio)
   - SAS EG
     - [Report Automation from ETL to Email Sending](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - SQL
