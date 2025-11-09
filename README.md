@@ -1,6 +1,6 @@
 # Harry Behn Francisco - Data Analyst Portfolio
 ## About
-Hi, I'm Harry! I have a bachelors degree in Electrical Engineering.
+Hi, I'm Harry! I have a bachelors degree in Electrical Engineering. I am a detail oriented Data Analyst with more than 4 years of extensive experience in Data Analysis. I am skilled in Data management and Analysis including Data Cleaning, Data Transformation and Data Visualization.
 
 My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
 
@@ -10,14 +10,14 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](https://github.com/41552Hann/DataAnalystPortfolio#about)
 - [Portfolio Projects](https://github.com/41552Hann/DataAnalystPortfolio#portfolio-projects)
   - Power BI
-    - [Game Performance Monitoring](https://github.com/harrybehn/DataAnalystPortfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
+    - [Weekly Game Performance Monitoring](https://github.com/harrybehn/DataAnalystPortfolio?tab=readme-ov-file#weekly-monthly--yearly-gaming-performance-monitoring)
   - SAS EG
     - [Report Automation from ETL to Email Sending](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - Excel / Google Sheets
-    - [Promo Cost Estimation](https://hannresortsphil-my.sharepoint.com/:x:/g/personal/harry_francisco_hannresorts_com/Ef3QsBZhK1dJin37oSeZwnQBrWdxYgNRRGfMwYEFPJJn0w?e=AkVVNu) 
+  - Excel
+    - [Weekly, Monthly & Yearly Game Performance Monitoring](https://github.com/harrybehn/PortfolioProjects/blob/main/Gaming%20Performance%20Monitoring.xlsx) 
 
 
 - [Education](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/README.md#education)  
@@ -39,7 +39,18 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Enabled weekly tracking of gaming performance by nationality, helping stakeholders identify trends in player behavior and revenue contribution. The dashboard improved decision-making for marketing and operations by highlighting high-performing segments and underutilized gaming areas.
 
+### Monthly & Yearly Gaming Performance Monitoring
+**Code:** [Monthly & Yearly Gaming Performance Monitoring]()
 
+**Goal:** To monitor weekly gaming performance by Nationality
+
+**Description:** This dashboard provides insights into gaming performance metrics by analyzing Unique Player count, Theoritical Win, Actual Win and Coin In Statistics across different nationalities ,gaming areas and game type in weekly , monthly and yearly basis.
+
+**Skills:** Data cleaning, data transformation, data visualization.
+
+**Technology:** Power BI, DAX, Power Query & SQL
+
+**Results:** Enabled weekly tracking of gaming performance by nationality, helping stakeholders identify trends in player behavior and revenue contribution. The dashboard improved decision-making for marketing and operations by highlighting high-performing segments and underutilized gaming areas.
 
 ## Education
 NwSSU - BS in Electrical Engineering 
