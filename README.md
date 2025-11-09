@@ -10,7 +10,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - Power BI
     - [Weekly Game Performance Monitoring](https://github.com/harrybehn/powerbiportfolio)
   - SAS EG
-    - [Report Automation from ETL to Email Sending](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
+    - [Report Automation from ETL to Email Sending](https://github.com/harrybehn/SASEGProject/blob/main/README.md)
   - SQL
     - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
   - Excel
