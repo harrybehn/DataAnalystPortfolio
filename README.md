@@ -6,9 +6,7 @@ My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Table of Contents
-- [About](https://github.com/41552Hann/DataAnalystPortfolio#about)
-- [Portfolio Projects](https://github.com/41552Hann/DataAnalystPortfolio#portfolio-projects)
+## Projects
   - Power BI
     - [Weekly Game Performance Monitoring](https://github.com/harrybehn/DataAnalystPortfolio?tab=readme-ov-file#weekly-monthly--yearly-gaming-performance-monitoring)
   - SAS EG
@@ -23,34 +21,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Education](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/README.md#education)  
 - [Certificates](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/README.md#contacts)
-## Portfolio Projects
-In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
-### Weekly, Monthly & Yearly Gaming Performance Monitoring
-**Code:** [Weekly, Monthly & Yearly Gaming Performance Monitoring](https://github.com/harrybehn/powerbiportfolio)
-
-**Goal:** To monitor weekly gaming performance by Nationality
-
-**Description:** This dashboard provides insights into gaming performance metrics by analyzing Unique Player count, Theoritical Win, Actual Win and Coin In Statistics across different nationalities ,gaming areas and game type in weekly , monthly and yearly basis.
-
-**Skills:** Data cleaning, data transformation, data visualization.
-
-**Technology:** Power BI, DAX, Power Query & SQL
-
-**Results:** Enabled weekly tracking of gaming performance by nationality, helping stakeholders identify trends in player behavior and revenue contribution. The dashboard improved decision-making for marketing and operations by highlighting high-performing segments and underutilized gaming areas.
-
-### Monthly & Yearly Gaming Performance Monitoring
-**Code:** [Monthly & Yearly Gaming Performance Monitoring]()
-
-**Goal:** To monitor weekly gaming performance by Nationality
-
-**Description:** This dashboard provides insights into gaming performance metrics by analyzing Unique Player count, Theoritical Win, Actual Win and Coin In Statistics across different nationalities ,gaming areas and game type in weekly , monthly and yearly basis.
-
-**Skills:** Data cleaning, data transformation, data visualization.
-
-**Technology:** Power BI, DAX, Power Query & SQL
-
-**Results:** Enabled weekly tracking of gaming performance by nationality, helping stakeholders identify trends in player behavior and revenue contribution. The dashboard improved decision-making for marketing and operations by highlighting high-performing segments and underutilized gaming areas.
 
 ## Education
 NwSSU - BS in Electrical Engineering 
