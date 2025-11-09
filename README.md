@@ -17,12 +17,6 @@ This is a repository to showcase skills, share projects and track my progress in
   - Excel
     - [Weekly, Monthly & Yearly Game Performance Monitoring](https://github.com/harrybehn/PortfolioProjects/blob/main/Gaming%20Performance%20Monitoring.xlsx) 
 
-
-- [Education](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/README.md#certificates)
-- [Contact](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/README.md#contacts)
-
-
 ## Education
 NwSSU - BS in Electrical Engineering 
 Aug 2014 - Mar 2019
