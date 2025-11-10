@@ -2,7 +2,7 @@
 ## About
 Hi, I'm Harry! I have a Bachelors degree in Electrical Engineering. I am a detail oriented Data Analyst with more than 4 years of extensive experience in Data Analysis. I am skilled in Data Analysis, Data Cleaning, Data Transformation and Data Visualization.
 
-My CV in [pdf](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/Tianna%20Parris%20CV.pdf).
+My CV in [pdf](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/Harry%20Behn%20A.%20Francisco_Data%20Analyst.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
