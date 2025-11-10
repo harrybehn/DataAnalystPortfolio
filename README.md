@@ -21,6 +21,6 @@ Aug 2014 - Mar 2019
 
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://)
+- LinkedIn: [@harryfrancisco](https://)
 - Email: harrybehnf@gmail.com
 
