@@ -11,8 +11,6 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Player Gaming Performance Monitoring](https://github.com/harrybehn/powerbiportfolio)
   - SAS EG
     - [Report Automation from ETL to Email Sending](https://github.com/harrybehn/SASEGProject/blob/main/README.md)
-  - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
   - Excel
     - [Player Monthly & Yearly Game Performance Monitoring](https://hannresortsphil-my.sharepoint.com/:x:/g/personal/harry_francisco_hannresorts_com/EdXtVyXKpZtPiRrvLDeGl0UBGhAB8gsy6HBB9cu7jigHEQ?e=U9rqUj) 
 
@@ -23,6 +21,6 @@ Aug 2014 - Mar 2019
 
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/tianna-parris-9b6823176/)
+- LinkedIn: [@tiannaparris](https://)
 - Email: harrybehnf@gmail.com
 
