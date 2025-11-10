@@ -12,7 +12,8 @@ This is a repository to showcase skills, share projects and track my progress in
   - SAS EG
     - [Report Automation from ETL to Email Sending](https://github.com/harrybehn/SASEGProject/blob/main/README.md)
   - Excel
-    - [Player Monthly & Yearly Game Performance Monitoring](https://hannresortsphil-my.sharepoint.com/:x:/g/personal/harry_francisco_hannresorts_com/EdXtVyXKpZtPiRrvLDeGl0UBGhAB8gsy6HBB9cu7jigHEQ?e=U9rqUj) 
+    - [Player Monthly & Yearly Game Performance Monitoring](https://hannresortsphil-my.sharepoint.com/:x:/g/personal/harry_francisco_hannresorts_com/EdXtVyXKpZtPiRrvLDeGl0UBGhAB8gsy6HBB9cu7jigHEQ?e=U9rqUj)
+    - [Player Grouping and CSV Export Automation](https://github.com/harrybehn/ExcelProject-PlayerGroupingsAutomation)
 
 
 ## Education
