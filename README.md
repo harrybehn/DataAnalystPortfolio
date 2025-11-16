@@ -9,6 +9,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Projects
   - Power BI
     - [Player Gaming Performance Monitoring](https://github.com/harrybehn/powerbiportfolio)
+    - [AdventureWorks Sales Report](https://hannresortsphil-my.sharepoint.com/:u:/g/personal/harry_francisco_hannresorts_com/EevYjwfOOrlCuT2yAGvt51sB6Oa9vOdZxUlNh5kXk0gzLg?e=g67cI2)
   - SAS EG
     - [Report Automation from ETL to Email Sending](https://github.com/harrybehn/SASEGProject/blob/main/README.md)
   - Excel
