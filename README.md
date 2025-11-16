@@ -10,9 +10,17 @@ I’m a **Data Analyst** with a **Bachelor’s degree in Electrical Engineering*
 - **Excel** – Data wrangling and quick insights  
 - **SQL** – Querying and managing relational databases  
 
-## 📄 My CV in [pdf](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/Harry%20Behn%20A.%20Francisco_Data%20Analyst.pdf).
 
-This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
+📄 My CV in [pdf](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/Harry%20Behn%20A.%20Francisco_Data%20Analyst.pdf).
+
+
+This repository serves as a **portfolio of my work in Data Analytics and Data Science**. It includes projects that demonstrate my ability to:
+- Transform raw data into actionable insights
+- Build interactive dashboards and reports
+- Automate workflows and optimize processes
+- Apply statistical and analytical techniques to solve business problems
+
+You’ll find examples using **Power BI**, **SAS Enterprise Guide**, **Excel**, and **SQL**, along with ongoing efforts to expand into **Data Engineering**.
 
 ## 📂 Projects
   - Power BI
