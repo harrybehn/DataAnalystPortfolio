@@ -34,8 +34,8 @@ You’ll find examples using **Power BI**, **SAS Enterprise Guide**, **Excel**, 
 
 
 ## 🎓 Education
-NwSSU - BS in Electrical Engineering 
-Aug 2014 - Mar 2019
+NwSSU - BS in Electrical Engineering Aug 2014 - Mar 2019
+
 
 
 ## 📬 Contacts
