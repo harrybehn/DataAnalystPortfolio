@@ -10,11 +10,11 @@ I’m a **Data Analyst** with a **Bachelor’s degree in Electrical Engineering*
 - **Excel** – Data wrangling and quick insights  
 - **SQL** – Querying and managing relational databases  
 
-My CV in [pdf](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/Harry%20Behn%20A.%20Francisco_Data%20Analyst.pdf).
+📄My CV in [pdf](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/Harry%20Behn%20A.%20Francisco_Data%20Analyst.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
-## Projects
+##📂 Projects
   - Power BI
     - [Player Gaming Performance Monitoring](https://github.com/harrybehn/powerbiportfolio)
     - [AdventureWorks Sales Report](https://hannresortsphil-my.sharepoint.com/:u:/g/personal/harry_francisco_hannresorts_com/EevYjwfOOrlCuT2yAGvt51sB6Oa9vOdZxUlNh5kXk0gzLg?e=g67cI2)
@@ -25,7 +25,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Excel VBA - Player Grouping and CSV Export Automation](https://github.com/harrybehn/ExcelProject-PlayerGroupingsAutomation)
 
 
-## Education
+##🎓 Education
 NwSSU - BS in Electrical Engineering 
 Aug 2014 - Mar 2019
 
