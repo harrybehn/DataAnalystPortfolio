@@ -11,10 +11,10 @@ I’m a **Data Analyst** with a **Bachelor’s degree in Electrical Engineering*
 - **SQL** – Querying and managing relational databases  
 
 
-📄 My CV in [pdf](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/Harry%20Behn%20A.%20Francisco_Data%20Analyst.pdf).
+📄 **My CV in** [pdf](https://github.com/harrybehn/DataAnalystPortfolio/blob/main/Harry%20Behn%20A.%20Francisco_Data%20Analyst.pdf).
 
 
-This repository serves as a **portfolio of my work in Data Analytics and Data Science**. It includes projects that demonstrate my ability to:
+This repository serves as a portfolio of my work in Data Analytics. It includes projects that demonstrate my ability to:
 - Transform raw data into actionable insights
 - Build interactive dashboards and reports
 - Automate workflows and optimize processes
