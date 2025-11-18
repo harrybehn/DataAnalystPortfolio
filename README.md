@@ -39,7 +39,7 @@ NwSSU - BS in Electrical Engineering  | Aug 2014 - Mar 2019
 
 
 ## 📬 Contacts
-- 🔗 LinkedIn: [@harryfrancisco](https://)
+- 🔗 LinkedIn: [@harryfrancisco](https://www.linkedin.com/in/harry-behn-francisco-cssyb-102b361bb/)
 - 📧 Email: harrybehnf@gmail.com
 
 
