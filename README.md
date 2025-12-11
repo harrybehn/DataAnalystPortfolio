@@ -31,7 +31,7 @@ You’ll find examples using **Power BI**, **SAS Enterprise Guide**, **Excel**, 
   - SQL
     - [AdventureWorks SQL Project](https://github.com/harrybehn/sqlportfolio/blob/main/script/AdventureWorks.sql)
   - Excel
-    - [Excel Pivot & Dashboard - Player Monthly & Yearly Game Performance Monitoring](https://hannresortsphil-my.sharepoint.com/:x:/g/personal/harry_francisco_hannresorts_com/EdXtVyXKpZtPiRrvLDeGl0UBGhAB8gsy6HBB9cu7jigHEQ?e=U9rqUj)
+    - [Excel Pivot & Dashboard - Player Monthly & Yearly Game Performance Monitoring](https://1drv.ms/x/c/3f6a117fe62ef3f8/IQAHzWoPo3A8Rp_gAOdrbCl6ASorPf7-r0TxkCuw7MH_ANg?e=Gip7Pw)
     - [Excel VBA - Player Grouping and CSV Export Automation](https://github.com/harrybehn/ExcelProject-PlayerGroupingsAutomation)
   
 
